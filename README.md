@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adrianvla
 - 👀 I’m interested in music, computer science and embedded programming
 - 🌱 I’m currently learning computer science algorithms
-- 📫 How to reach me: admin@morisinc.net
+- 📫 How to reach me: admin [at] morisinc.net
 
 About me: https://morisinc.net/about/
 
