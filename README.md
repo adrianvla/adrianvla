@@ -5,7 +5,7 @@
 
 About me: https://morisinc.net/about/
 
-![Top Langs](https://readme-stats-bgnu.vercel.app/api/top-langs/?username=adrianvla&layout=compact&hide=g-code,makefile,scss,html,objective-c,typescript&langs_count=12)
+![Top Langs](https://readme-stats-bgnu.vercel.app/api/top-langs/?username=adrianvla&layout=compact&hide=g-code,makefile,scss,html,objective-c,typescript,tcl,batchfile&langs_count=12)
 
 <!---
 adrianvla/adrianvla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
