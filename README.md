@@ -4,6 +4,7 @@
 - 📫 How to reach me: admin [at] morisinc.net
 
 About me: https://morisinc.net/about/
+
 ![Top Langs](https://readme-stats-bgnu.vercel.app/api/top-langs/?username=adrianvla&layout=compact&hide=g-code,makefile,scss,html,objective-c,typescript&langs_count=12)
 
 <!---
